@@ -3,6 +3,7 @@
 Components:
 1. Patients
 2. Instruments
+3. Devices
 
 
 -------------------
